@@ -80,8 +80,8 @@ main {
 }
 
 #header h2 {
-    border-left: outset 1px #fff;
-    border-right: outset 1px #fff;
+    border-left: 5px outset #fff;
+    border-right: 5px outset #fff;
     display: inline-block;
     padding-left: 1rem;
     padding-right: 1rem;
