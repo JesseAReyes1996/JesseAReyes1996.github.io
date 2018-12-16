@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css?family=Quicksand');
+@import url('https://fonts.googleapis.com/css?family=Thasadith');
 
 body {
-    font-family: 'Quicksand', sans-serif;
+    font-family: 'Thasadith', sans-serif;
     margin:0;
     background: #eee;
     height: auto;
@@ -42,8 +42,7 @@ main {
 
 #landing-text {
     display: flex;
-    flex: 0 1 50vw;
-    height: 100vh;
+    flex: 0 1 40vw;
     justify-content: center;
     align-items: center;
     text-align: center;
@@ -58,8 +57,8 @@ main {
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    height: 100vh;
-    flex: 0 1 50vw;
+    height: 50vh;
+    flex: 0 1 60vw;
     margin: 0;
 }
 
