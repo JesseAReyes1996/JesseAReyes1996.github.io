@@ -83,8 +83,12 @@ main {
     padding-right: 1rem;
 }
 
+#images h3 {
+    padding: 0.8rem;
+}
+
 .caption {
-    padding: 2rem;
+    padding: 0.8rem;
     text-align: center;
 }
 
