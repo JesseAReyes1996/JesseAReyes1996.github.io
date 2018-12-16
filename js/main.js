@@ -1,6 +1,6 @@
 // animate smooth scolling
-$('#view-work').on('click', function(){
-	const images = $('#images').position.top();
+$('#view-projects').on('click', function(){
+	const images = $('#images').position().top;
 
 	$('html, body').animate(
 		{
