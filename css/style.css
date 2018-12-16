@@ -20,6 +20,10 @@ h2 {
     margin: 0;
 }
 
+h3 {
+    padding: 0.8rem;
+}
+
 img {
     display: block;
     width: 100%;
@@ -76,15 +80,11 @@ main {
 }
 
 #header h2 {
-    border-left: double 1px #fff;
-    border-right: double 1px #fff;
+    border-left: outset 1px #fff;
+    border-right: outset 1px #fff;
     display: inline-block;
     padding-left: 1rem;
     padding-right: 1rem;
-}
-
-#images h3 {
-    padding: 0.8rem;
 }
 
 .caption {
