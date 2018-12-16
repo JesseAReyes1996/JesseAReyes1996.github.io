@@ -57,7 +57,7 @@ main {
     border-radius: 50px;
     text-decoration: none;
     color: #333;
-    transition: background 900ms ease;
+    transition: background 1000ms ease;
 }
 
 .btn:hover {
