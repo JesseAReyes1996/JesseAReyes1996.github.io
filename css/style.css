@@ -42,7 +42,7 @@ main {
 
 #landing-text {
     display: flex;
-    flex: 0 1 100vw;
+    flex: 0 1 50vw;
     height: 100vh;
     justify-content: center;
     align-items: center;
@@ -51,6 +51,16 @@ main {
 
 #landing-text h2 {
     color: #888;
+}
+
+#landing-image {
+    background: url(https://source.unsplash.com/pgSkeh0yl8o);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    flex: 0 1 50vw;
+    margin: 0;
 }
 
 .btn {
@@ -80,8 +90,8 @@ main {
 }
 
 #header h2 {
-    border-left: 5px outset #fff;
-    border-right: 5px outset #fff;
+    border-left: 5px double #fff;
+    border-right: 5px double #fff;
     display: inline-block;
     padding-left: 1rem;
     padding-right: 1rem;
