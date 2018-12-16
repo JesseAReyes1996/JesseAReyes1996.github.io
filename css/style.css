@@ -90,8 +90,8 @@ main {
 }
 
 #header h2 {
-    border-left: 5px double #fff;
-    border-right: 5px double #fff;
+    border-left: 2px double #fff;
+    border-right: 2px double #fff;
     display: inline-block;
     padding-left: 1rem;
     padding-right: 1rem;
