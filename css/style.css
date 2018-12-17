@@ -55,8 +55,8 @@ main {
 
 #landing-image {
     background: url(https://images.pexels.com/photos/247791/pexels-photo-247791.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
-    background-position: right;
-    background-size: auto;
+    background-position: left;
+    background-size: cover;
     background-repeat: no-repeat;
     height: 50vh;
     flex: 0 1 60vw;
