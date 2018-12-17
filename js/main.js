@@ -6,6 +6,6 @@ $('#view-projects').on('click', function(){
 		{
 			scrollTop: images
 		},
-		1000
+		900
 	);
 });
