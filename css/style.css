@@ -55,8 +55,8 @@ main {
 
 #landing-image {
     background: url(https://source.unsplash.com/pgSkeh0yl8o);
-    background-position: center;
-    background-size: cover;
+    background-position: left;
+    background-size: auto;
     background-repeat: no-repeat;
     height: 50vh;
     flex: 0 1 60vw;
