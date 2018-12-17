@@ -102,6 +102,11 @@ main {
     text-align: center;
 }
 
+.caption p {
+    font-size: 1.2rem;/*TODO*/
+    color: #ea3;
+}
+
 footer {
     text-align: center;
     padding: 2rem 1rem;
@@ -110,7 +115,7 @@ footer {
 }
 
 footer h3 {
-    font-size: 1rem;
+    font-size: 3rem;
     margin-bottom: 0;
 }
 
@@ -122,10 +127,10 @@ footer h3 {
     }
 
     #landing-text {
-        height: 60vh;
+        height: 100vh;/*TODO*/
     }
 
     #landing-image {
-        height: 60vh;
+        height: 100vh;
     }
 }
