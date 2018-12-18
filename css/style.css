@@ -3,7 +3,7 @@
 body {
     font-family: 'Lato', sans-serif;
     margin:0;
-    background: #DCDCDC; /* changes the background of the entire website*/
+    background: #DCDCDC; /* changes the background of the entire website */
     height: auto;
 }
 
@@ -102,9 +102,9 @@ main {
     text-align: center;
 }
 
-/*.caption p {
-    font-size: 1rem; /* changes the font-size of the descriptions
-}*/
+.caption p {
+    font-size: 1.3rem; /* changes the font-size of the descriptions */
+}
 
 footer {
     text-align: center;
