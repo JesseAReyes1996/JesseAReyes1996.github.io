@@ -52,18 +52,10 @@ main {
 #landing-text h2 {
     color: #888;
 }
-/*
-.landing-text div {
-    text-decoration: none;
-    color: #dff;
-    padding-top: 3rem;
-}
-*/
 
-.down-arrow {
+#down-arrow {
     text-decoration: none;
     color: #888;
-    padding-top: 3rem;
 }
 
 #landing-image {
