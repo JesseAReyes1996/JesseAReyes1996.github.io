@@ -102,6 +102,11 @@ main {
     font-size: 1.1rem; /* changes the font-size of the descriptions */
 }
 
+#icon {
+    text-decoration:none;
+    color: inherit;
+}
+
 footer {
     text-align: center;
     padding: 2rem 1rem;
