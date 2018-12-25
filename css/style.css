@@ -64,8 +64,11 @@ main {
 }
 
 #down-arrow {
-    text-decoration:none;
+    text-decoration: none;
     color: #888;
+    position: relative;
+    top: 17px;
+    left: 5px;
 }
 
 .btn {
@@ -108,7 +111,7 @@ main {
 }
 
 #icon {
-    text-decoration:none;
+    text-decoration: none;
     color: #969696;
 }
 
@@ -117,11 +120,6 @@ footer {
     padding: 2rem 1rem;
     margin: auto;
     color: #333;
-}
-
-footer h3 {
-    font-size: 1.5rem;
-    margin-bottom: 0;
 }
 
 /* screen sizes >= 500px */
