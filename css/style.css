@@ -55,10 +55,8 @@ main {
 
 #landing-text div {
     text-decoration: none;
-    color: #888;
-    /*position: relative;
-    top: 17px;
-    left: 50px;*/
+    color: #dff;
+    padding-top: 3rem;
 }
 
 #landing-image {
