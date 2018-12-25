@@ -53,6 +53,14 @@ main {
     color: #888;
 }
 
+#down-arrow {
+    text-decoration: none;
+    color: #888;
+    /*position: relative;
+    top: 17px;
+    left: 50px;*/
+}
+
 #landing-image {
     background: url(https://images.pexels.com/photos/247791/pexels-photo-247791.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
     background-position: left;
@@ -61,14 +69,6 @@ main {
     height: 50vh;
     flex: 0 1 60vw;
     margin: 0;
-}
-
-.fas {
-    text-decoration: none;
-    color: #888;
-    position: relative;
-    top: 17px;
-    left: 50px;
 }
 
 .btn {
