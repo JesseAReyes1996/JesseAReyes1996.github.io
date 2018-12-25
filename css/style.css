@@ -63,6 +63,11 @@ main {
     margin: 0;
 }
 
+#down-arrow {
+    text-decoration:none;
+    color: #d3d3d3;
+}
+
 .btn {
     padding: 0.5rem 2rem;
     border: 1px #ccc solid;
@@ -102,9 +107,9 @@ main {
     font-size: 1.1rem; /* changes the font-size of the descriptions */
 }
 
-#icon {
+#brand-icon {
     text-decoration:none;
-    color: #d3d3d3;
+    color: #949494;
 }
 
 footer {
