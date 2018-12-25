@@ -53,10 +53,16 @@ main {
     color: #888;
 }
 
+#landing-buttons {
+    display: flex;
+    flex-direction: column;
+}
+
 #down-arrow {
     text-decoration: none;
-    /*color: #D8D8D8;*/
-    color: #FFC0CB;
+    margin-top: 2rem;
+    color: #D8D8D8;
+    /*color: #FFC0CB;*/
 }
 
 #landing-image {
