@@ -55,7 +55,8 @@ main {
 
 #down-arrow {
     text-decoration: none;
-    color: #D8D8D8;
+    /*color: #D8D8D8;*/
+    color: #FFC0CB;
 }
 
 #landing-image {
